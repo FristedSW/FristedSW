@@ -2,7 +2,6 @@
 
 🎓 *Software Teknologi Student — 4th Semester*  
 📍Located in Aarhus, Denmark 
-Passionate about building, breaking, and understanding software from the ground up.
 
 ---
 
