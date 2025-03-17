@@ -1,14 +1,14 @@
 # 👨‍💻 Jeppe Fristed
 
 🎓 *Software Teknologi Student — 4th Semester*  
-📍 Passionate about building, breaking, and understanding software from the ground up.
+📍Located in Aarhus, Denmark 
+Passionate about building, breaking, and understanding software from the ground up.
 
 ---
 
 ## 🚀 About Me
 
-Hey there! I'm **Jeppe Fristed**, a 4th semester student studying *Software Teknologi*.  
-I love diving into code, building systems, and learning how things work under the hood — whether it's low-level C or slick frontend UIs.
+Hey there! I'm **Jeppe Fristed**, a 4th semester student studying *Software Teknologi*. Im Passionate about building, breaking, and understanding software from the ground up. I love diving into code, building systems, and learning how things work under the hood — whether it's low-level C or slick frontend UIs.
 
 I believe in writing clean, efficient code, and I’m always up for a challenge, a new language, or a wild side project.  
 
@@ -38,14 +38,6 @@ I believe in writing clean, efficient code, and I’m always up for a challenge,
 
 ---
 
-## 🌈 Side Quirks
-- Keyboard nerd ⌨️
-- Loves Vim but still uses VS Code 😅
-- Obsessed with clean commit messages
-- Doesn’t trust code without semicolons 😉
-
----
-
 ## 🛠️ Let's Build Something!
 I'm always interested in new challenges and collaborations.  
 Whether it’s low-level embedded stuff or building scalable backend systems — let’s talk!
@@ -54,5 +46,6 @@ Whether it’s low-level embedded stuff or building scalable backend systems —
 
 ---
 
-📬 **Reach out:** *Maybe someday I'll add my contact info here... maybe not.*  
-🎉 Thanks for reading — now go build something cool.
+📬 **Reach out:** 
+Email: Jeppe@fristed.dk
+Phone: +4560568260
